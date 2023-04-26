@@ -212,7 +212,6 @@ First degree black belt in ATA Taekwondo<br>
 Eagle Scout</p><br><br>
 
 
-<img src="![image](https://user-images.githubusercontent.com/100733709/234702715-20a6d2ba-21fd-441e-9456-c3a6b8fa6919.png)
-"
+<img src="https://user-images.githubusercontent.com/100733709/234702715-20a6d2ba-21fd-441e-9456-c3a6b8fa6919.png"
      width = "500"
      height = "500"/>
