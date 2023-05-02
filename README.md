@@ -211,6 +211,7 @@ Alabama High School Wrestling Association:<br>
 First degree black belt in ATA Taekwondo<br>
 Eagle Scout</p><br><br>
 
-<img src="https://user-images.githubusercontent.com/100733709/156267679-aebc53f3-83a4-47ce-becd-4ead699ed222.png"
+<img src="![image](https://user-images.githubusercontent.com/100733709/235718967-87201e30-5a96-4dcf-b066-39b5f051bfe1.png)"
      width = "300"
      height = "300"/>
+
