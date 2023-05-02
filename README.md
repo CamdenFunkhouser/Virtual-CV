@@ -19,7 +19,22 @@ Major: Management Information Systems<br>
 Minor: Computer Technology and Applications<br><br><br></p>
 
 <p><h3>Experience</h3>
-<h4>Business Analyst</h4>
+<h4>Business Operations Analyst</h4>
+Employer: Dish Technologies<br>
+Group: Program Management Office<br>
+Location: Inverness, Colorado<br>
+Term: May 2022 - Present<br>
+Goal: To assist the DT PMO facilitate operations for the Hardware Engineering Department<br>
+Value: Assisted with: budget, productivity and project time tracking, resource allocation and recognition<br>
+My Contribution:<br>
+•	Helped with the 2022 DT HW Eng. budget tracking effort and 2023 budget planning effort<br>
+•	Created a Google Suite tracking dashboard for the DT HW Eng. Department each month tracking: budgets: G&A, CapEx, projects, and groups; time: projects and groups<br>
+•	Architected the DT PMO LumApps web page, arranged different sections and links<br>
+•	Built Wrike analytics boards for HW Eng. groups to measure utilization and project performance<br>
+•	Converted Google Sheets dashboards to Tableau format for tracking initiative<br>
+•	Facilitated meetings bi weekly for the Android TV release tracking effort<br><br>
+
+<h4>Business Analyst Student</h4>
 Employer: Seagate / University of Colorado Boulder<br>
 Program: MSBA Program<br>
 Class: BUAN Experiential Projects Class<br>
