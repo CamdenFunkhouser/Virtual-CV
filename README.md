@@ -210,3 +210,7 @@ Alabama High School Wrestling Association:<br>
 2X State Champion, 3X All-State Wrestler<br>
 First degree black belt in ATA Taekwondo<br>
 Eagle Scout</p><br><br>
+
+<img src="https://user-images.githubusercontent.com/100733709/156267679-aebc53f3-83a4-47ce-becd-4ead699ed222.png"
+     width = "300"
+     height = "300"/>
