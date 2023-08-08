@@ -5,7 +5,7 @@
 <h2>Virtual Resume</h2>
 <p><h3>Education</h3>
 <h4>The University of Colorado Boulder</h4>
-Candidate for Master’s of Science in Business Analytics<br><br>
+Master’s of Science in Business Analytics<br><br>
 Graduation Date: May 2022<br>
 Concentration: Market Analysis<br>
 GPA: 3.2/4.0<br><br>
