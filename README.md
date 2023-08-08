@@ -23,7 +23,7 @@ Minor: Computer Technology and Applications<br><br><br></p>
 Employer: Dish Technologies<br>
 Group: Program Management Office<br>
 Location: Inverness, Colorado<br>
-Term: May 2022 - Present<br>
+Term: May 2022 - Aug 2023<br>
 Goal: To assist the DT PMO facilitate operations for the Hardware Engineering Department<br>
 Value: Assisted with: budget, productivity and project time tracking, resource allocation and recognition<br>
 My Contribution:<br>
@@ -117,6 +117,7 @@ My Contribution:<br>
 <h4>Crew Member</h4>
 Employer: Firehouse Subs<br>
 Location: Colorado Springs, CO<br>
+Term: May 2017 - July 2017<br>
 Goal: To provide excellent and speedy customer service and minimize cost<br>
 Value: Developed better communications and customer service skills<br>
 My Contribution:<br>
