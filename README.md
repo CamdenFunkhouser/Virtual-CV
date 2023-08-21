@@ -8,7 +8,7 @@
 Master’s of Science in Business Analytics<br><br>
 Graduation Date: May 2022<br>
 Concentration: Market Analysis<br>
-GPA: 3.2/4.0<br><br>
+GPA: 3.3/4.0<br><br>
 
 <h4>The University of Alabama</h4>
 Bachelor’s of Science in Commerce & Business Administration<br><br>
