@@ -60,7 +60,7 @@ My Contribution:<br>
 
 <h4>Delivery Driver</h4>
 Employer: DoorDash & GrubHub<br>
-Location: Boulder, Colorado Springs, Denver, Colorado<br>
+Location: Boulder, Colorado Springs, Denver & Colorado<br>
 Term: May 2017 - Present<br>
 Goal: To provide excellent and speedy customer service and minimize cost<br>
 Value: Developed better communications, customer service, and driving skills<br>
