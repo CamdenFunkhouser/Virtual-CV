@@ -16,7 +16,7 @@ Graduation Date: May 2019<br>
 GPA:  3.3/4.0<br>
 Minor GPA: 3.7/4.0<br>
 Major: Management Information Systems<br>
-Minor: Computer Technology and Applications<br><br><br></p>
+Minor: Computer Technology and Applications</p><br><br><br>
 
 <p><h3>Experience</h3>
 <h4>Server</h4>
@@ -227,8 +227,8 @@ My Contribution:<br>
 •	Built mural wall for young airmen at Warner Robins AFB for Eagle Scout project</p><br><br><br>
 
 <p><h3>Technical Skills</h3>
-Languages: Python, R, ABAP, C#, HTML 5 & CSS 3, T-SQL, Git, VBS, JavaScript, Java, Fiori<br>
-Frameworks: Pandas, Numpy, SAP, ASP .NET, MVC 5 Entity, Spring MVC<br>
+Languages: T-SQL, HTML 5, CSS 3, Python, R, Git, VBS, C#, JavaScript, Java, ABAP<br>
+Frameworks: MVC 5 Entity, Pandas, Numpy, Psych, SAP, ASP .NET, Spring MVC<br>
 Operating Environments: OS, Windows, iOS, android</p><br><br><br>
 
 <p><h3>Business Tools</h3>
@@ -246,4 +246,4 @@ Phi Beta Lambda Business Fraternity Member<br>
 Alabama High School Wrestling Association:<br>
 2X State Champion, 3X All-State Wrestler<br>
 First degree black belt in ATA Taekwondo<br>
-Eagle Scout</p><br><br>
+Eagle Scout</p><br><br><br>
