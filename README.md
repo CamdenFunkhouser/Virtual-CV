@@ -5,13 +5,13 @@
 <h2>Virtual CV</h2>
 <p><h3>Education</h3>
 <h4>The University of Colorado Boulder</h4>
-Master’s of Science in Business Analytics<br><br>
+Master’s of Science in Business Analytics<br>
 Concentration: Market Analysis<br>
 Graduation Date: May 2022<br>
 GPA: 3.3/4.0<br><br>
 
 <h4>The University of Alabama</h4>
-Bachelor’s of Science in Commerce & Business Administration<br><br>
+Bachelor’s of Science in Commerce & Business Administration<br>
 Major: Management Information Systems<br>
 Minor: Computer Technology and Applications<br>
 Graduation Date: May 2019<br>
