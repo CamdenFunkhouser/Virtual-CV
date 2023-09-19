@@ -12,11 +12,11 @@ GPA: 3.3/4.0<br><br>
 
 <h4>The University of Alabama</h4>
 Bachelor’s of Science in Commerce & Business Administration<br><br>
+Major: Management Information Systems<br>
+Minor: Computer Technology and Applications<br>
 Graduation Date: May 2019<br>
 GPA:  3.3/4.0<br>
-Minor GPA: 3.7/4.0<br>
-Major: Management Information Systems<br>
-Minor: Computer Technology and Applications</p><br><br><br>
+Minor GPA: 3.7/4.0</p><br><br><br>
 
 <p><h3>Experience</h3>
 <h4>Server</h4>
