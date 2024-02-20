@@ -246,7 +246,7 @@ Frameworks: MVC 5 Entity, Pandas, Numpy, Psych, SAP, ASP .NET, Spring MVC<br>
 Operating Environments: OS, Windows, iOS, android</p><br><br><br>
 
 <p><h3>Business Tools</h3>
-Anaconda Navigator, R Studio, Microsoft: Office, Power BI, Team Foundation Server, Visual Studio, SQL Server Management Studio, MySQL Workbench Other Tools: GitHub, JIRA, Trello, SAP GUI</p><br><br><br>
+GitLab, ServiceNow, Anaconda Navigator, R Studio, Tableau, MySQL Workbench, Google Suite, GitHub, Microsoft: Office, Power BI, Team Foundation Server, Visual Studio, SQL Server Management Studio</p><br><br><br>
 
 <p><h3>Honors and Accolades</h3>
 Dean’s List<br>
