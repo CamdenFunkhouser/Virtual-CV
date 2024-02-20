@@ -19,10 +19,24 @@ GPA:  3.3/4.0<br>
 Minor GPA: 3.7/4.0</p><br><br>
 
 <p><h3>Experience</h3>
+<h4>Product Manager</h4>
+Employer: State of Montana<br>
+Location: Helena, Montana<br>
+Term: Dec 2023 - Present<br>
+Goal: To assist the Software Factory by owning the product backlog and communicating with customers<br>
+Value:  Constantly delivering value to SW Factory by managing product backlog by customers priority<br>
+My Contribution:<br>
+•	Created and Prioritized backlog for customer Risk Management Tort Defense (RMTD), including: Consultations and Risk Management System (CRIMS) and RMTD Training systems<br>
+•	Completed story writing work for the Legislative group, work on the payment portal systems, work on State form upgrades, and work on application re-platforms<br>
+•	Tested functionality changes to applications made by developers moving stories to closed<br>
+•	Participated in Scrum activities each week, including:case review, daily stand-ups, running customer and backlog refinement meetings, Sprint Review, and updating the Sprint Retrospective Backlog<br>
+•	Assisted with PI Planning efforts as a Product Owner and a Product Manager for Dev. team<br><br>
+
+
 <h4>Server</h4>
 Employer: Rock Bottom Restaurant and Brewery<br>
 Location: Centenial, Colorado<br>
-Term: Aug 2023 - Present<br>
+Term: Aug 2023 - Nov2023<br>
 Goal: To provide excellent and speedy customer service and minimize cost<br>
 Value:  Developed better communications and customer service skills<br>
 My Contribution:<br>
@@ -34,7 +48,7 @@ My Contribution:<br>
 <h4>Host</h4>
 Employer: Rock Bottom Restaurant and Brewery<br>
 Location: Centenial, Colorado<br>
-Term: Aug 2023 - Present<br>
+Term: Aug 2023 - Nov2023<br>
 Goal: To provide excellent and speedy customer service and minimize cost<br>
 Value:  Developed better communications and customer service skills<br>
 My Contribution:<br>
